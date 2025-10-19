@@ -1,2 +1,2 @@
 # rako
-Phyton_esimene_harjutus
+Python_esimene_harjutus
